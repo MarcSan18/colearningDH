@@ -1,5 +1,5 @@
 const numeroPar = 2;
-const texto = 'Meu numero impar';
+const texto = 'Meu numero par';
 
 // nao use esse
 console.log(texto + ' ' + (numeroPar + 4));
